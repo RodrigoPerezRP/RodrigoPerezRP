@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="600" src="https://github.com/RodrigoPerezRP/RodrigoPerezRP/blob/master/assets/HNHLkUsKRjGCaIGDpqVVcQ.webp"  />
+  <img height="400" width="800" src="https://github.com/RodrigoPerezRP/RodrigoPerezRP/blob/master/assets/HNHLkUsKRjGCaIGDpqVVcQ.webp"  />
 </div>
 
 ###
