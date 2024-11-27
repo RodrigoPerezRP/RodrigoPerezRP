@@ -2,17 +2,16 @@
   <img height="400" width="800" src="https://github.com/RodrigoPerezRP/RodrigoPerezRP/blob/master/assets/HNHLkUsKRjGCaIGDpqVVcQ.webp"  />
 </div>
 
-###
-
-<p align="center">Hello World!!</p>
 
 ###
 
-<h2 align="left">🖐 Hola Soy Rodrigo</h2>
+<h1 align="left">🖐 Hola Soy Rodrigo</h1>
 
 ###
 
-<h3 align="left">🕹 Acerca de mi:</h3>
+<h2 align="left">🕹 Acerca de mi:</h2>
+
+###
 
 ###
 
@@ -20,7 +19,7 @@
 
 ###
 
-<h3 align="left">📱 Tecnologias</h3>
+<h2 align="left">📱 Tecnologias</h2>
 
 ###
 
