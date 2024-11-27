@@ -1,25 +1,68 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hola Soy Rodrigo</h2>
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
+###
 
-### 👨🏻‍💻 &nbsp;Acerca De Mi
+<p align="center">Hello World!!</p>
 
-💡  Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
-🌱  Estoy en proceso de aprender más sobre Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
-✍️  En mi tiempo libre, me dedico al estudio de Web3 como pasatiempo o proyectos secundarios.
-💬  No dudes en contactarme para tener una conversación interesante.
+###
 
+<h2 align="left">🖐 Hola Soy Rodrigo</h2>
 
-### 🛠 &nbsp;Tecnologias
+###
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+<h3 align="left">🕹 Acerca de mi:</h3>
+
+###
+
+<p align="left">🌟 Soy una persona apasionada por aprender nuevos lenguajes de programación y aplicarlos en proyectos prácticos.<br>🚀 Resolver problemas complejos mediante el desarrollo de software me inspira y motiva cada día.<br>🔧 Encuentro satisfacción al optimizar procesos y crear soluciones tecnológicas eficientes.<br>💻 Me encanta diseñar aplicaciones que faciliten la vida de las personas y tengan un impacto positivo.<br>🌐 Siempre estoy explorando herramientas innovadoras para mejorar mis habilidades y aportar valor con tecnología.</p>
+
+###
+
+<h3 align="left">📱 Tecnologias</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
+  <img width="20" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50" alt="androidstudio logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="50" alt="mysql logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" alt="postgresql logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img width="20" />
+  <img src="https://cdn.simpleicons.org/wordpress/21759B" height="50" alt="wordpress logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoPerezRP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RodrigoPerezRP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
